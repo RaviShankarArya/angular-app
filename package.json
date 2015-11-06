@@ -6,7 +6,7 @@
   "readme": "README.md",
   "repository": {
     "type": "git",
-    "url": "git@git.example.com:example.git"
+    "url": "https://github.com/RaviShankarArya/angular-app.git"
   },
   "devDependencies": {
     "grunt": "0.4.2",
